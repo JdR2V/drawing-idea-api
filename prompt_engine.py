@@ -603,5 +603,4 @@ def generate(
         "modifiers": modifiers,
         "difficulty": difficulty,
         "mood": mood if mood != "any" else mood_key,
-        "source": "template",
     }
